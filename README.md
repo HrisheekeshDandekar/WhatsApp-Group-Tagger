@@ -12,7 +12,6 @@ Experience native driver parformance using C. Tag 750+ participants in minutes.
 Follow these simple steps to use the Whatsapp Group Tagger:
 
 1. **Download the Program**:
-   - Visit the Github repository for the Whatsapp Group Tagger.
    - Click on the "Clone or download" button and select "Download ZIP".
    - Extract the downloaded ZIP file to a convenient location on your computer.
 
