@@ -49,6 +49,6 @@ Follow these simple steps to use the Whatsapp Group Tagger:
 - Respect the privacy and terms of service of Whatsapp while using this tool.
 - For any issues or inquiries, refer to the Github repository.
 
-## Hello Reddit, not providing an EXE so script kiddies don't abuse this.
+## Hello Reddit, provided you an EXE.
 - Sincerely, smelly nerds
 
