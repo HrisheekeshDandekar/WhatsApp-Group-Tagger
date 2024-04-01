@@ -50,5 +50,5 @@ Follow these simple steps to use the Whatsapp Group Tagger:
 - For any issues or inquiries, refer to the Github repository.
 
 ## Hello Reddit, provided you an EXE.
-- Sincerely, smelly nerds
+\- Sincerely, smelly nerds
 
