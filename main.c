@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 #include "cli_welcome.h"
+#include "cli_goodbye.h"
 #include "keyboard_simulator.h"
 
 int get_total_members()
@@ -43,6 +44,7 @@ int main()
         pressKey(VK_RETURN);
     }
 
+    goodbye();
+    Sleep(7000);
     return 0;
 }
-
